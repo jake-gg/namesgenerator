@@ -3,7 +3,16 @@ namesgenerator
 
 Docker names generator, ported to Python.
 
-### Installation
+### Installation for standalone use
+
+Just clone the run `python namesgenerator.py` in a terminal.
+
+```
+$ python namesgenerator.py
+jolly_wozniak
+```
+
+### Installation into your project
 
 Just copy `namesgenerator.py` to your project: 
 
